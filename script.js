@@ -1,4 +1,4 @@
-// Question 1: 
+// Question 1:
 
 var petArray = ["Cat", "Cow", "Dog"];
 
